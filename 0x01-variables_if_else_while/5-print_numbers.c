@@ -1,4 +1,4 @@
-#include<stdio.hi>
+#include<stdio.h>
 
 /**
  * main - entry point
@@ -17,7 +17,7 @@ int main(void)
 		printf("%i", digit);
 		digit++;
 	}
-	print("\n");
+	printf("\n");
 
 	return (0);
 }
