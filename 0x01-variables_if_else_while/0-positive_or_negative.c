@@ -5,9 +5,9 @@
 /**
  * main - entry point
  *
- * description : check if number n is positive or negative or zero
+ * description: false or true validation
  *
- *return : always 0 <success>
+ *return: 0 (success)
 */
 
 int main(void)
